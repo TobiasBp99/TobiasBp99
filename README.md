@@ -1,8 +1,10 @@
-<h2 align="center">Hi, I'm Tobias  👋</h2>
+<h2 align="center">Hi, I'm Tobias 🇦🇷 👋</h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineer;Embedded+Systems;Hardware+Design)
 
-Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last year with mainly interest on embedded systems and hardware design. 🏎️ Proficient in crafting solutions for automotive racing environment such as a Knock Detection Device, EGT-meter usefull with K-thermocouple and WideBand Controller. 🛵 Additionally, I've recently been interested on electric mobility.
+Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last year with a primary interest on embedded systems and hardware design. 
+🏎️ Proficient in crafting solutions for automotive racing environment such as a Knock Detection Device, EGT-meter useful with K-thermocouple and WideBand Controller.
+💡 Additionally, I' ve recently developed an interest in electric mobility.
 
 ## 🙋‍♂️ Connect with me 
 <p align="center">
