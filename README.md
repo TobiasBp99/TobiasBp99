@@ -30,9 +30,9 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
 
 ## 📕 Projects I've been working:
 
-### BLCD Controller :
+### BLCD Controller
 
-### Hardware Designs :
+### Hardware Designs
 
 <p align="left">
     <a href="https://github.com/TobiasBp99/nodeWiFi">
@@ -41,7 +41,7 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
 </p>
 
 
-### Embedded devices:
+### Embedded devices
 
 
 ### Mobile Devices
