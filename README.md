@@ -42,6 +42,17 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
 
 
 ### Embedded devices
+<p align="left">
+    <a href="https://github.com/TobiasBp99/LPC845-BRK">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=LPC845-BRK&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://github.com/TobiasBp99/Nave-Assembly">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=Nave-Assembly&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+</p>
 
 
 ### Mobile Devices
