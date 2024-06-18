@@ -8,7 +8,7 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
 
 ## 🙋‍♂️ Connect with me 
 <p align="center">
-    <a href="www.linkedin.com/in/tobiasbavasso/">
+    <a href="https://www.linkedin.com/in/tobiasbavasso/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     <a href="https://github.com/TobiasBp99">
@@ -72,7 +72,7 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
 </p>
 
 
-### Others:
+### Others
 
 <p align="left">
 
