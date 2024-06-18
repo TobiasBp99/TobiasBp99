@@ -31,10 +31,24 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
 ## 📕 Projects I've been working:
 
 ### BLCD Controller
+<p align="left">
+    <a href="https://github.com/TobiasBp99/BLCD-Controller">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=BLCD-Controller&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+</p>
 
 ### Hardware Designs
 
 <p align="left">
+    <a href="https://github.com/TobiasBp99/powerTrain">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=powerTrain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/TobiasBp99/remoteControl">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=remoteControl&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
+    <a href="https://github.com/TobiasBp99/bms">
+        <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=bms&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
+    </a>
     <a href="https://github.com/TobiasBp99/nodeWiFi">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=nodeWiFi&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
@@ -46,14 +60,10 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
     <a href="https://github.com/TobiasBp99/LPC845-BRK">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=LPC845-BRK&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
-</p>
-
-<p align="left">
     <a href="https://github.com/TobiasBp99/Nave-Assembly">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=Nave-Assembly&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
 </p>
-
 
 ### Mobile Devices
 
