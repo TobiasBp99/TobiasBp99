@@ -68,10 +68,10 @@ Hey! 👋 Electronics Engineering student at UTN FRBA, going through my last yea
 ### Mobile Devices
 
 <p align="left">
-
-    <a href="https://github.com/TobiasBp99/evConceptApp">
+<a href="https://github.com/TobiasBp99/evConceptApp">
         <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TobiasBp99&repo=evConceptApp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats">
     </a>
+
 
 </p>
 
